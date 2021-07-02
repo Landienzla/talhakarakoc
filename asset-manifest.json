@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/talhakarakoc/static/css/main.aaa99a46.chunk.css",
+    "main.js": "/talhakarakoc/static/js/main.771f94ad.chunk.js",
+    "main.js.map": "/talhakarakoc/static/js/main.771f94ad.chunk.js.map",
+    "runtime-main.js": "/talhakarakoc/static/js/runtime-main.dca11531.js",
+    "runtime-main.js.map": "/talhakarakoc/static/js/runtime-main.dca11531.js.map",
+    "static/js/2.652208bf.chunk.js": "/talhakarakoc/static/js/2.652208bf.chunk.js",
+    "static/js/2.652208bf.chunk.js.map": "/talhakarakoc/static/js/2.652208bf.chunk.js.map",
+    "static/js/3.3314d0c1.chunk.js": "/talhakarakoc/static/js/3.3314d0c1.chunk.js",
+    "static/js/3.3314d0c1.chunk.js.map": "/talhakarakoc/static/js/3.3314d0c1.chunk.js.map",
+    "index.html": "/talhakarakoc/index.html",
+    "static/css/main.aaa99a46.chunk.css.map": "/talhakarakoc/static/css/main.aaa99a46.chunk.css.map",
+    "static/js/2.652208bf.chunk.js.LICENSE.txt": "/talhakarakoc/static/js/2.652208bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dca11531.js",
+    "static/js/2.652208bf.chunk.js",
+    "static/css/main.aaa99a46.chunk.css",
+    "static/js/main.771f94ad.chunk.js"
+  ]
+}
