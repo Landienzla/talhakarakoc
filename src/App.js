@@ -9,8 +9,6 @@ import Particles from "react-tsparticles";
 import LinkedInIcon from "@material-ui/icons/LinkedIn";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import MailOutlinedIcon from "@material-ui/icons/MailOutlined";
-// import ExpandMoreIcon from "@material-ui/icons/ExpandMore";
-// import ExpandLessIcon from "@material-ui/icons/ExpandLess";
 
 export default class App extends Component {
   constructor(props) {
